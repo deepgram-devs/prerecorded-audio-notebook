@@ -2,7 +2,7 @@
 
 Use your favorite interactive notebook platform to run this quickstart, which guides you through using the Deepgram API and Deepgram's Python SDK to transcribe audio files into text.
 
-This notebook shows how to make a prerecorded speech-to-text request. We also have a notebook which shows how to make a streaming speech-to-text request.
+This notebook shows how to make a prerecorded speech-to-text request. We also have a notebook which shows how to make a [streaming speech-to-text request](https://github.com/deepgram-devs/livestream-audio-notebook).
 
 ## Development and Contributing
 
